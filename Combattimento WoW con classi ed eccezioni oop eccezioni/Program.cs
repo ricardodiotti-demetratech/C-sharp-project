@@ -137,3 +137,5 @@ public class BersaglioNonValidoException : Exception
 }
 
 //Ciao sono alessandro
+
+//commento pazzerello
