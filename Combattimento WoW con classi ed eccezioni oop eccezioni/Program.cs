@@ -136,3 +136,4 @@ public class BersaglioNonValidoException : Exception
     public BersaglioNonValidoException(string message) : base(message){ }
 }
 
+//Ciao sono alessandro
